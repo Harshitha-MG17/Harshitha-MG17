@@ -1,7 +1,17 @@
-# 💫 About Me:
-Hi there, I'm Harshitha M G 👋<br><br>Motivated MCA student at PES University with good foundations in Java, web development, and the MERN stack. Hands-on experience through academic projects involving full-stack development, databases, and problem-solving. A collaborative team player seeking an entry-level backend or full-stack role to grow as a software professional.
-<br><br>💻 About Me<br><br>💼 Currently focused on full-stack web development through academic and personal projects, while also working on AI/ML-based applications.<br>🌱 Actively learning modern web technologies, backend architecture, authentication mechanisms, and machine learning concepts.
-<br>🚀 My goal is to grow as a full-stack developer and build reliable, user-centric web applications, integrating intelligent features where applicable.
+
+## 💫 About Me
+
+Hi, I'm Harshitha M G 👋
+
+💻 Software developer with a foundation in Java, Core Java, Object-Oriented Programming, and SQL.
+
+🚀 Hands-on experience in developing applications using Java, Python, React.js, Node.js, Express.js, and MongoDB.
+
+🔧 Experienced in working with REST APIs, database integration, authentication, and application development through technical projects.
+
+🌱 Continuously enhancing my skills in backend development, full-stack technologies, database management, and software engineering.
+
+🎯 Passionate about building reliable, scalable, and maintainable software applications.
 
 ## 🌐 Socials:
 
